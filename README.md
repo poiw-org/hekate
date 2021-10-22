@@ -1,4 +1,8 @@
-<div style="text-align: center;">Hekate</div>
+<div class="myWrapper" markdown="1">
+# my markdown content
+
+Hekate
+</div>
 
 Hekate is the goddess of magic, crossroads, ghosts, the moon, necromancy, and witchcraft.
 What does Hekate have to do with us?
