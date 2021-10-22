@@ -40,4 +40,4 @@ then
 	exit 1
 fi
 
-echo $command | xargs flatpak run org.mozilla.firefox &
+echo $command | xargs firefox &

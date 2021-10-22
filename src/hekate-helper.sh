@@ -39,4 +39,4 @@ if [ -z "$command" ];
 then
 	exit 1
 fi
-echo $command | xargs icecat &
+echo $command | xargs firefox &

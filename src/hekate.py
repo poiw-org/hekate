@@ -50,5 +50,5 @@ if not command:
 if os.name=='nt': # Windows
     os.system(f"firefox {command}")
 elif os.name=='posix': # Mac | GNU/Linux | BSD
-    os.system(f"echo '{command}' | xargs flatpak run org.mozilla.firefox &")
+    os.system(f"echo '{command}' | xargs firefox &")
     #print(f"echo {command} | xargs flatpak run org.mozilla.firefox &")
