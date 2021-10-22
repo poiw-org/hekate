@@ -1,4 +1,4 @@
-<p style="text-align: center;">Hekate</p>
+<div style="text-align: center;">Hekate</div>
 
 Hekate is the goddess of magic, crossroads, ghosts, the moon, necromancy, and witchcraft.
 What does Hekate have to do with us?
