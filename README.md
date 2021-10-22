@@ -1,4 +1,8 @@
-				Hekate
+<p align="center">
+
+    Hekate
+
+</p>
 
 Hekate is the goddess of magic, crossroads, ghosts, the moon, necromancy, and witchcraft.
 What does Hekate have to do with us?
